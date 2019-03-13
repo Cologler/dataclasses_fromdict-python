@@ -23,3 +23,4 @@ assert from_dict(asdict(Point(10, 20)), Point) == Point(10, 20)
 ## Other Libraries
 
 * [dacite](https://github.com/konradhalas/dacite) - nice job, I should search on github before start this project 😂
+* [mashumaro](https://github.com/Fatal1ty/mashumaro)
